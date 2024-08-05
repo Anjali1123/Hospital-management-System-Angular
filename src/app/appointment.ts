@@ -2,6 +2,6 @@ export class Appointment {
     id:number=0;
     name:string=""
     age:string=""
-    systomps:string=""
+    symtomps:string=""
     number:string=""
 }
